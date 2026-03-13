@@ -12,5 +12,7 @@ Oefening vanuit finder
 nieuwe oefening GITHUB 2.0
 
 
-oefening 3.0 GITHUB
+
+
+Oefening voor pull request vanuit FINDER
 
